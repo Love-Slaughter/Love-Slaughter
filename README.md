@@ -3,6 +3,7 @@
 
 <h2>👨‍💻 Demos of Career Projects:</h2>
 [Azure Cloud SOC with Honeynet Implementation](https://github.com/Love-Slaughter/Azure-SOC)
+<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
 
 *More Coming Soon*
 
