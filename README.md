@@ -1,4 +1,4 @@
-<h1>Hi, I'm Love! A cybesecurity professional on a journey to learn more in the vastly growing field </h1>
+<h1>Hi, I'm Love! A cybesecurity professional </h1>
 <!--   <br/><a href="https://www.linkedin.com/in/loveslaughter">Programmer</a>, <a href="https://www.linkedin.com/in/loveslaughter/">Cybersecurity Professional</h1> -->
 
 <h2>👨‍💻 Demos of Career Projects:</h2>
