@@ -2,7 +2,8 @@
 <!--   <br/><a href="https://www.linkedin.com/in/loveslaughter">Programmer</a>, <a href="https://www.linkedin.com/in/loveslaughter/">Cybersecurity Professional</h1> -->
 
 <h2>👨‍💻 Demos of Career Projects:</h2>
-*Coming Soon*
+[Azure Cloud SOC with Honeynet Implementation](https://github.com/Love-Slaughter/Azure-SOC)
+*More Coming Soon*
 
 <h2> 🤳 Connect with me:</h2>
 https://www.linkedin.com/in/loveslaughter
