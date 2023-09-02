@@ -2,8 +2,7 @@
 <!--   <br/><a href="https://www.linkedin.com/in/loveslaughter">Programmer</a>, <a href="https://www.linkedin.com/in/loveslaughter/">Cybersecurity Professional</h1> -->
 
 <h2>👨‍💻 Demos of Career Projects:</h2>
-[Azure Cloud SOC with Honeynet Implementation](https://github.com/Love-Slaughter/Azure-SOC)
-<a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+<a href="https://github.com/Love-Slaughter/Azure-SOC" target="_blank">Azure Cloud SOC with Honeynet Implementation</a>
 
 *More Coming Soon*
 
