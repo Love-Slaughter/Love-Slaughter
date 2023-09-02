@@ -5,7 +5,7 @@
 *Coming Soon*
 
 <h2> 🤳 Connect with me:</h2>
-[<img align="left" alt="LoveSlaughter | LinkedIn" width="14px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]: https://www.linkedin.com/in/loveslaughter
+https://www.linkedin.com/in/loveslaughter
 
 <!--
 **Love-Slaughter/Love-Slaughter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
